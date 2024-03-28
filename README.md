@@ -1,4 +1,4 @@
-# node-monitoring
+# near-monitoring
 
 A monitoring solution for Near node runners and validators utilizing docker containers with [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/),
 [NodeExporter](https://github.com/prometheus/node_exporter), [NearPrometheusExporter](https://github.com/LavenderFive/near_prometheus_exporter), 
